@@ -38,11 +38,11 @@ To start the app, there are 3 distinct ways:
 ## Design
 ### Initial
 #### Split View
-[Split View](images/splitView.PNG)
+![Split View](images/splitView.PNG "Split View")
 #### Sequential View
-[Sequential View](images/sequentialView.PNG)
+![Sequential View](images/sequentialView.PNG "Sequential View")
 #### Filter
-[Filter Dialog](images/sessionsFilter.PNG)
+![Filter Dialog](images/sessionsFilter.PNG "Filter Dialog")
 
 ## Shortcut keys
 
