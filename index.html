@@ -5,9 +5,16 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
     <link href="node_modules/jsoneditor/dist/jsoneditor.min.css" rel="stylesheet" type="text/css">
+    <link href="dist/CSS/main.css" rel="stylesheet">
 
 </head>
 <body>
+<label id="log">
+ <input type="file" id="log-input" accept=".log"/>
+ <div id="import">Import Log</div>
+ <div id="fileName">No file chosen!</div>
+</label>
+
     <div id="jsoneditor" style="width: 400px; height: 400px;"></div>
 
     <script src="dist/JS/bundle.js"> </script>
