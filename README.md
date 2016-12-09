@@ -21,8 +21,8 @@ To start the app, there are 3 distinct ways:
 
 4. File retrieval is empowered by FileSystem API
   1. [HTML5 input element](https://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-selecting-files)
-    a. Use `type="file"` property
-    b. Use `<label>` to mask the input element and take control over the displayed text on button and file name
+    1. Use `type="file"` property
+    2. Use `<label>` to mask the input element and take control over the displayed text on button and file name
 
 5. A lot of errors in webpack build haven't been resolved, but basically bundle.js still contains the right code, so not bothering now
 
