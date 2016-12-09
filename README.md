@@ -20,7 +20,7 @@ To start the app, there are 3 distinct ways:
 3. [JSON Editor by josdejong](https://github.com/josdejong/jsoneditor)
 
 4. File retrieval is empowered by FileSystem API
-  1. [HTML5 input element](https://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-selecting-files)
+  1. [HTML5 `<input>` element](https://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-selecting-files)
     1. Use `type="file"` property
     2. Use `<label>` to mask the input element and take control over the displayed text on button and file name
 
