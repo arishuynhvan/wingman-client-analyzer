@@ -35,6 +35,8 @@ To start the app, there are 3 distinct ways:
 
 6. May eventually need to modify jsoneditor for displaying multiple json objects
 
+7. Bundlejs is only tracked by git in release branch since it's meant for deploying to Heroku. In all other branches, it's nessary to rebuild with `webpack` if bundlejs file is missing from `dist/JS` folder
+
 ## Developer's Stories
 
 1. The application will retrieve a simple log file of wingman client
