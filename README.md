@@ -69,6 +69,8 @@ To start the app, there are 3 distinct ways:
 
 - [ ] Disable editable & insertable options
 
+- [ ] Style as the initial design
+
 ## Shortcut keys
 
 ### Tree Editor
