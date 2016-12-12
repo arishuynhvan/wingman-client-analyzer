@@ -57,7 +57,11 @@
 
 	const JSONEditor = __webpack_require__(2);
 	var container = document.getElementById("jsoneditor");
-	var options = {};
+
+	/** Read only fields */
+	var options = {
+	  onEditable: function (node) {return false;}
+	};
 	var editor = new JSONEditor(container, options);
 
 	// mock json

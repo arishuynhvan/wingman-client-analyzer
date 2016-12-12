@@ -7,6 +7,7 @@ npm-debug.log
 *.dev
 .DS_Store
 webpack.config.js
+dist/JS/bundle.js
 
 # Docker
 Dockerfile
