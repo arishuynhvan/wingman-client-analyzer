@@ -2,7 +2,11 @@
 
 const JSONEditor = require('jsoneditor');
 var container = document.getElementById("jsoneditor");
-var options = {};
+
+/** Read only fields */
+var options = {
+  onEditable: function (node) {return false;}
+};
 var editor = new JSONEditor(container, options);
 
 // mock json
