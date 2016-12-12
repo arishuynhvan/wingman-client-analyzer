@@ -8,12 +8,19 @@ To start the app, there are 3 distinct ways:
 
 3. Open the app locally `node app.js` or `npm start`
 
+## Commands
+
+- `webpack` bundle the js files or `npm run build`
+- `webpack-dev-server` for starting the local server or `npm run dev` or `npm dev`
+- To check if the view is correct, just simply open `index.html` in a browser.
+
+
 ## Source
 [arishuynhvan/wingman-client-analyzer](https://github.com/arishuynhvan/wingman-client-analyzer)
 
 ## Technical
 
-1. Bundle all js files with Webpack. Require function is from CommonJS
+1. Bundle all js files with [Webpack](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.ude8bl5u4). Require function is from CommonJS
 
 2. Add new js files into the webpack.config.js entry, so all js files will be placed in the bundle.js file => single js script in index.html
 
@@ -46,6 +53,21 @@ To start the app, there are 3 distinct ways:
 ![Sequential View](images/sequentialView.PNG "Sequential View")
 #### Filter
 ![Filter Dialog](images/sessionsFilter.PNG "Filter Dialog")
+
+## TODOs
+
+- [x] Design UI
+
+- [ ] Implement file importing, reading & extracting for
+  - [ ] Client State
+  - [ ] Appcast
+  - [ ] Session period (start & end time stamp)
+
+- [ ] JSON Schema for displaying multiple JSON objects with JSON editor
+
+- [ ] Convert JSON strings to object & pass to view layer
+
+- [ ] Disable editable & insertable options
 
 ## Shortcut keys
 

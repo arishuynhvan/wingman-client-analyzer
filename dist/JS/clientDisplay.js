@@ -16,6 +16,13 @@ var json = {
     "String": "Hello World"
 };
 editor.set(json);
+editor.get(json);
 
+
+// container = document.getElementById("jsonobj2");
+// editor = new JSONEditor(container, options);
+
+// editor.set(json);
+// editor.get(json);
 // display json
-var json = editor.get();
+//var json = editor.get();

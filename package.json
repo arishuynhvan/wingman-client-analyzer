@@ -7,7 +7,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+  "build": "webpack --config webpack.config.js",
+  "dev": "webpack-dev-server"
   },
   "dependencies": {
     "ejs": "2.4.1",
