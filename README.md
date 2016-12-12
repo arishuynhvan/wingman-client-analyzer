@@ -58,7 +58,7 @@ To start the app, there are 3 distinct ways:
 
 - [x] Design UI
 
-- [ ] Implement file importing, reading & extracting for
+- [ ] Implement file importing, reading & extracting
   - [ ] Client State
   - [ ] Appcast
   - [ ] Session period (start & end time stamp)
