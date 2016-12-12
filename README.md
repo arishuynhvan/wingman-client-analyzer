@@ -69,7 +69,9 @@ To start the app, there are 3 distinct ways:
 
 - [ ] Convert JSON strings to object & pass to view layer
 
-- [ ] Disable editable & insertable options
+- [ ] Implement the session filter
+
+- [x] Disable editable & insertable options
 
 - [ ] Style as the initial design
 
