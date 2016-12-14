@@ -1,0 +1,1 @@
+/** Test each function from the parseLog w.r.t the sample log file */

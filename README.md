@@ -60,6 +60,8 @@ To start the app, there are 3 distinct ways:
 
 - [x] Design UI
 
+- [ ] Set up HMR for webpack
+
 - [ ] Implement file importing, reading & extracting
   - [ ] Client State
   - [ ] Appcast
@@ -71,9 +73,11 @@ To start the app, there are 3 distinct ways:
 
 - [ ] Implement the session filter
 
-- [x] Disable editable & insertable options
+- [x] Disable editable & insertable(not done) options
 
 - [ ] Style as the initial design
+
+- [ ] Clean the webpack build errors
 
 ## Shortcut keys
 
@@ -83,18 +87,10 @@ Key                     | Description
 ----------------------- | ------------------------------------------------
 Alt+Arrows              | Move the caret up/down/left/right between fields
 Ctrl+Shift+Arrow Up/Down| Select multiple fields
-Shift+Alt+Arrows        | Move current field or selected fields up/down/left/right
-Ctrl+D                  | Duplicate field
-Ctrl+Del                | Remove field
 Ctrl+Enter              | Open link when on a field containing an url
-Ctrl+Ins                | Insert a new field with type auto
-Ctrl+Shift+Ins          | Append a new field with type auto
 Ctrl+E                  | Expand or collapse field
 Alt+End                 | Move the caret to the last field
 Ctrl+F                  | Find
 F3, Ctrl+G              | Find next
 Shift+F3, Ctrl+Shift+G  | Find previous
 Alt+Home                | Move the caret to the first field
-Ctrl+M                  | Show actions menu
-Ctrl+Z                  | Undo last action
-Ctrl+Shift+Z            | Redo

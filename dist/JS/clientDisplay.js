@@ -1,5 +1,5 @@
 /** Client Display */
-
+module.exports=function(){
 const JSONEditor = require('jsoneditor');
 var container = document.getElementById("jsoneditor");
 
@@ -22,7 +22,7 @@ var json = {
 editor.set(json);
 editor.get(json);
 
-
+}
 // container = document.getElementById("jsonobj2");
 // editor = new JSONEditor(container, options);
 
