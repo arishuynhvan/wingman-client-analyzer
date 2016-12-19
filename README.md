@@ -59,6 +59,10 @@ To start the app, there are 3 distinct ways:
 ### Material Design
 #### Split View
 ![MD Split View](images/Wingman-Client-Analyzer-splitview.png "Material Design Split View")
+#### Sequential View
+![Sequential View](images/Wingman-Client-Analyzer-sequentialview.png "Material Design Sequential View")
+#### Filter
+![Filter Modal Dialog](images/Wingman-Client-Analyzer-sessionsfilter.png "Material Design Filter Modal Dialog")
 
 ## TODOs
 
