@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Wingman Client Analyzer](#wingman-client-analyzer)
+  - [Commands](#commands)
+  - [Source](#source)
+  - [Technical](#technical)
+  - [Developer's Stories](#developers-stories)
+  - [Design](#design)
+    - [Initial](#initial)
+      - [Split View](#split-view)
+      - [Sequential View](#sequential-view)
+      - [Filter](#filter)
+    - [Material Design](#material-design)
+      - [Split View](#split-view-1)
+      - [Sequential View](#sequential-view-1)
+      - [Filter](#filter-1)
+  - [TODOs](#todos)
+  - [Shortcut keys](#shortcut-keys)
+    - [Tree Editor](#tree-editor)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Wingman Client Analyzer
 
 To start the app, there are 3 distinct ways:
