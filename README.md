@@ -8,6 +8,7 @@
   - [Technical](#technical)
   - [Developer's Stories](#developers-stories)
   - [Design](#design)
+      - [Why do I even bother designing for an internal software?](#why-do-i-even-bother-designing-for-an-internal-software)
     - [Initial](#initial)
       - [Split View](#split-view)
       - [Sequential View](#sequential-view)
@@ -72,6 +73,13 @@ To start the app, there are 3 distinct ways:
 3. Key & Value pairs are displayed neatly (preferably in a table)
 
 ## Design
+
+#### Why do I even bother designing for an internal software?
+
+Since it's boring enough to work with tons of logs of the application, automated tests from all layers of the architecture, wouldn't the internal tool brings joy to the eyes and help developers refresh their eyes from time to time?
+
+I took time to design because I was highly confused and drained when I stared at the log no matter how good the IDE is, so I asked myself the above question. It took quite long for an entry web developer like me to make all of this from the design to the coding, but I truly enjoyed the process and was happy to improve this piece even in the future to deal with a more variety of logs from different applications.
+
 ### Initial
 #### Split View
 ![Split View](images/splitView.PNG "Split View")
