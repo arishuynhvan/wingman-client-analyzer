@@ -113,7 +113,7 @@ I took time to design because I was highly confused and drained when I stared at
 
 - [ ] Implement the session filter
 
-- [x] Disable editable & insertable(not done) options
+- [x] Disable editable & **insertable(not done)** options
 
 - [ ] Style as the initial design
 
