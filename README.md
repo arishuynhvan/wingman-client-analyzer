@@ -56,6 +56,10 @@ To start the app, there are 3 distinct ways:
 #### Filter
 ![Filter Dialog](images/sessionsFilter.PNG "Filter Dialog")
 
+### Material Design
+#### Split View
+![MD Split View](images/Wingman-Client-Analyzer-splitview "Material Design Split View")
+
 ## TODOs
 
 - [x] Design UI
