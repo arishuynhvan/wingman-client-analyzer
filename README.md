@@ -58,7 +58,7 @@ To start the app, there are 3 distinct ways:
 
 ### Material Design
 #### Split View
-![MD Split View](images/Wingman-Client-Analyzer-splitview "Material Design Split View")
+![MD Split View](images/Wingman-Client-Analyzer-splitview.PNG "Material Design Split View")
 
 ## TODOs
 
